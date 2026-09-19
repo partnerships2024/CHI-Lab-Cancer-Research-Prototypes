@@ -18,7 +18,7 @@ The **LUAD-FedStage Research Portal** provides an interactive demonstration envi
   />
 </p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sJv5555ozVw
+[![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sJv5555ozVw)
 
 ### Research Portal
 
