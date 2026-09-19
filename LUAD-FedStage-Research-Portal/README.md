@@ -12,7 +12,7 @@ The **LUAD-FedStage Research Portal** provides an interactive demonstration envi
 
 <p align="center">
   <img
-    src="./Demo-LUAD-FedStage-Research-Portal.gif"
+    src="./LUAD-FedStage-Research-Portal/Demo-LUAD-FedStage-Research-Portal .gif"
     alt="LUAD-FedStage Research Portal Demo"
     width="700"
   />
