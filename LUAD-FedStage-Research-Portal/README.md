@@ -26,4 +26,4 @@ The portal demonstrates a privacy-preserving research environment in which parti
 >
 > ## Research Portal Demo
 
-[▶️ **Watch the Research Portal Demo**](YOUR_VIDEO_LINK)
+[**Watch the Research Portal Demo**](LUAD-FedStage-Research-Portal/LUAD-FedStage-Research-Portal-demo.mp4)
