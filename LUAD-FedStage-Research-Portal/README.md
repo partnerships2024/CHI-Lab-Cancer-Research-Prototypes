@@ -23,3 +23,7 @@ The **LUAD-FedStage Research Portal** provides an interactive demonstration envi
 The portal demonstrates a privacy-preserving research environment in which participating research sites can perform local genomic analysis while sharing only appropriate summary-level information for federated research.
 
 > **Note:** The portal, datasets, source code, and associated research resources are currently **unpublished** and maintained in the **private CHI Lab GitHub repository**.
+>
+> ## Research Portal Demo
+
+[▶️ **Watch the Research Portal Demo**](YOUR_VIDEO_LINK)
