@@ -27,7 +27,7 @@ The portal demonstrates a privacy-preserving research environment in which parti
 
 > **Note:** The portal, datasets, source code, and associated research resources are currently **unpublished** and maintained in the **private CHI Lab GitHub repository**.
 
-> ## Research Full Portal Demo
+> ### Research Full Portal Demo
 
 [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sJv5555ozVw)
 
